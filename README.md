@@ -103,15 +103,7 @@ este deberá ser ejecutado desde SQL Server Management Studio.
 
 ### Desarrollo
 
-```bash
-cd Siniestros.Api
-dotnet run
-```
-
-La API estará disponible en:
-- HTTP: `http://localhost:5000`
-- HTTPS: `https://localhost:5001`
-- Swagger UI: `https://localhost:5001/swagger`
+Compilar el proyecto y ejecutar desde el Visual Studio.
 
 ## Endpoints
 
@@ -273,3 +265,4 @@ dotnet test
 
 
 Desarrollado como prueba técnica para Senior .NET Backend Developer por Diana Carolina Villanueva A.
+

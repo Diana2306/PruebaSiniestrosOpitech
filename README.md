@@ -96,12 +96,8 @@ dotnet ef database update --project Siniestros.Infrastructure --startup-project 
 
 ### 4. Poblar datos iniciales
 
-Ejecutar el script SQL para insertar departamentos, ciudades y tipos de siniestros:
-
-```bash
-# Desde SQL Server Management Studio o línea de comandos
-sqlcmd -S localhost -d SiniestrosDb -i Scripts/PoblarDatos.sql
-```
+Ejecutar el script SQL para insertar departamentos, ciudades y tipos de siniestros el cual se encuentra en la ruta Scripts/PoblarDatos.sql
+este deberá ser ejecutado desde SQL Server Management Studio.
 
 ## Ejecución
 
@@ -274,5 +270,6 @@ dotnet test
 - [Validación de Requisitos](./VALIDACION_REQUISITOS.md)
 
 ## Autor
+
 
 Desarrollado como prueba técnica para Senior .NET Backend Developer por Diana Carolina Villanueva A.

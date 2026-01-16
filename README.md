@@ -159,7 +159,7 @@ GET /api/Siniestros?departamento=Tolima&desde=2024-01-01&hasta=2024-01-31&page=1
   "items": [
     {
       "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
-      "fechaHora": "2024-01-15T10:30:00Z",
+      "fechaHora": "2026-01-15T10:30:00Z",
       "idCiudad": "73001",
       "ciudad": "Ibagué",
       "idDepartamento": "73",
@@ -265,4 +265,5 @@ dotnet test
 
 
 Desarrollado como prueba técnica para Senior .NET Backend Developer por Diana Carolina Villanueva A.
+
 

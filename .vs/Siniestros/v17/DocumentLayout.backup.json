@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\PruebaSiniestros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02AC274A-BD46-43E7-925B-2C5A75F5CAAF}|Siniestros.Api\\Siniestros.Api.csproj|c:\\users\\user\\pruebasiniestros\\siniestros.api\\controllers\\siniestroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02AC274A-BD46-43E7-925B-2C5A75F5CAAF}|Siniestros.Api\\Siniestros.Api.csproj|solutionrelative:siniestros.api\\controllers\\siniestroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51BF60A-B694-4B63-BB9D-121460A24017}|Siniestros.Application\\Siniestros.Application.csproj|c:\\users\\user\\pruebasiniestros\\siniestros.application\\queries\\consultarsiniestrosquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B51BF60A-B694-4B63-BB9D-121460A24017}|Siniestros.Application\\Siniestros.Application.csproj|solutionrelative:siniestros.application\\queries\\consultarsiniestrosquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE1592AC-D403-46F3-8C2E-DEF10C8FBFC0}|Siniestros.Infrastructure\\Siniestros.Infrastructure.csproj|c:\\users\\user\\pruebasiniestros\\siniestros.infrastructure\\persistence\\siniestrosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE1592AC-D403-46F3-8C2E-DEF10C8FBFC0}|Siniestros.Infrastructure\\Siniestros.Infrastructure.csproj|solutionrelative:siniestros.infrastructure\\persistence\\siniestrosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE1592AC-D403-46F3-8C2E-DEF10C8FBFC0}|Siniestros.Infrastructure\\Siniestros.Infrastructure.csproj|c:\\users\\user\\pruebasiniestros\\siniestros.infrastructure\\persistence\\siniestrosdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE1592AC-D403-46F3-8C2E-DEF10C8FBFC0}|Siniestros.Infrastructure\\Siniestros.Infrastructure.csproj|solutionrelative:siniestros.infrastructure\\persistence\\siniestrosdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51BF60A-B694-4B63-BB9D-121460A24017}|Siniestros.Application\\Siniestros.Application.csproj|c:\\users\\user\\pruebasiniestros\\siniestros.application\\commands\\crearsiniestrocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B51BF60A-B694-4B63-BB9D-121460A24017}|Siniestros.Application\\Siniestros.Application.csproj|solutionrelative:siniestros.application\\commands\\crearsiniestrocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51BF60A-B694-4B63-BB9D-121460A24017}|Siniestros.Application\\Siniestros.Application.csproj|c:\\users\\user\\pruebasiniestros\\siniestros.application\\persistence\\isiniestrosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B51BF60A-B694-4B63-BB9D-121460A24017}|Siniestros.Application\\Siniestros.Application.csproj|solutionrelative:siniestros.application\\persistence\\isiniestrosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51BF60A-B694-4B63-BB9D-121460A24017}|Siniestros.Application\\Siniestros.Application.csproj|c:\\users\\user\\pruebasiniestros\\siniestros.application\\queries\\obtenersiniestroporidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B51BF60A-B694-4B63-BB9D-121460A24017}|Siniestros.Application\\Siniestros.Application.csproj|solutionrelative:siniestros.application\\queries\\obtenersiniestroporidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E01A716-D917-4BC8-BA77-46C55D5C339F}|Siniestros.Domain\\Siniestros.Domain.csproj|c:\\users\\user\\pruebasiniestros\\siniestros.domain\\entities\\siniestro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E01A716-D917-4BC8-BA77-46C55D5C339F}|Siniestros.Domain\\Siniestros.Domain.csproj|solutionrelative:siniestros.domain\\entities\\siniestro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SiniestrosDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\PruebaSiniestros\\Siniestros.Infrastructure\\Persistence\\SiniestrosDbContext.cs",
+              "RelativeDocumentMoniker": "Siniestros.Infrastructure\\Persistence\\SiniestrosDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\PruebaSiniestros\\Siniestros.Infrastructure\\Persistence\\SiniestrosDbContext.cs",
+              "RelativeToolTip": "Siniestros.Infrastructure\\Persistence\\SiniestrosDbContext.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T01:38:46.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CrearSiniestroCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\PruebaSiniestros\\Siniestros.Application\\Commands\\CrearSiniestroCommand.cs",
+              "RelativeDocumentMoniker": "Siniestros.Application\\Commands\\CrearSiniestroCommand.cs",
+              "ToolTip": "C:\\Users\\User\\PruebaSiniestros\\Siniestros.Application\\Commands\\CrearSiniestroCommand.cs",
+              "RelativeToolTip": "Siniestros.Application\\Commands\\CrearSiniestroCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T01:34:13.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISiniestrosDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\PruebaSiniestros\\Siniestros.Application\\Persistence\\ISiniestrosDbContext.cs",
+              "RelativeDocumentMoniker": "Siniestros.Application\\Persistence\\ISiniestrosDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\PruebaSiniestros\\Siniestros.Application\\Persistence\\ISiniestrosDbContext.cs",
+              "RelativeToolTip": "Siniestros.Application\\Persistence\\ISiniestrosDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T01:33:50.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ObtenerSiniestroPorIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\User\\PruebaSiniestros\\Siniestros.Application\\Queries\\ObtenerSiniestroPorIdQuery.cs",
+              "RelativeDocumentMoniker": "Siniestros.Application\\Queries\\ObtenerSiniestroPorIdQuery.cs",
+              "ToolTip": "C:\\Users\\User\\PruebaSiniestros\\Siniestros.Application\\Queries\\ObtenerSiniestroPorIdQuery.cs",
+              "RelativeToolTip": "Siniestros.Application\\Queries\\ObtenerSiniestroPorIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T01:33:14.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsultarSiniestrosQuery.cs",
+              "DocumentMoniker": "C:\\Users\\User\\PruebaSiniestros\\Siniestros.Application\\Queries\\ConsultarSiniestrosQuery.cs",
+              "RelativeDocumentMoniker": "Siniestros.Application\\Queries\\ConsultarSiniestrosQuery.cs",
+              "ToolTip": "C:\\Users\\User\\PruebaSiniestros\\Siniestros.Application\\Queries\\ConsultarSiniestrosQuery.cs",
+              "RelativeToolTip": "Siniestros.Application\\Queries\\ConsultarSiniestrosQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T01:33:07.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Siniestro.cs",
+              "DocumentMoniker": "C:\\Users\\User\\PruebaSiniestros\\Siniestros.Domain\\Entities\\Siniestro.cs",
+              "RelativeDocumentMoniker": "Siniestros.Domain\\Entities\\Siniestro.cs",
+              "ToolTip": "C:\\Users\\User\\PruebaSiniestros\\Siniestros.Domain\\Entities\\Siniestro.cs",
+              "RelativeToolTip": "Siniestros.Domain\\Entities\\Siniestro.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T01:32:27.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SiniestrosController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\PruebaSiniestros\\Siniestros.Api\\Controllers\\SiniestrosController.cs",
+              "RelativeDocumentMoniker": "Siniestros.Api\\Controllers\\SiniestrosController.cs",
+              "ToolTip": "C:\\Users\\User\\PruebaSiniestros\\Siniestros.Api\\Controllers\\SiniestrosController.cs",
+              "RelativeToolTip": "Siniestros.Api\\Controllers\\SiniestrosController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAD4v0EAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T01:25:48.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SiniestrosDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\PruebaSiniestros\\Siniestros.Infrastructure\\Persistence\\SiniestrosDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Siniestros.Infrastructure\\Persistence\\SiniestrosDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\User\\PruebaSiniestros\\Siniestros.Infrastructure\\Persistence\\SiniestrosDbContextFactory.cs",
+              "RelativeToolTip": "Siniestros.Infrastructure\\Persistence\\SiniestrosDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T01:39:12.364Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

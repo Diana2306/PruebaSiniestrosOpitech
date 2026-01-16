@@ -1,0 +1,15 @@
+C:\Users\User\PruebaSiniestros\Siniestros.Application\bin\Debug\net8.0\Siniestros.Application.deps.json
+C:\Users\User\PruebaSiniestros\Siniestros.Application\bin\Debug\net8.0\Siniestros.Application.dll
+C:\Users\User\PruebaSiniestros\Siniestros.Application\bin\Debug\net8.0\Siniestros.Application.pdb
+C:\Users\User\PruebaSiniestros\Siniestros.Application\bin\Debug\net8.0\Siniestros.Domain.dll
+C:\Users\User\PruebaSiniestros\Siniestros.Application\bin\Debug\net8.0\Siniestros.Domain.pdb
+C:\Users\User\PruebaSiniestros\Siniestros.Application\obj\Debug\net8.0\Siniestros.Application.csproj.AssemblyReference.cache
+C:\Users\User\PruebaSiniestros\Siniestros.Application\obj\Debug\net8.0\Siniestros.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\PruebaSiniestros\Siniestros.Application\obj\Debug\net8.0\Siniestros.Application.AssemblyInfoInputs.cache
+C:\Users\User\PruebaSiniestros\Siniestros.Application\obj\Debug\net8.0\Siniestros.Application.AssemblyInfo.cs
+C:\Users\User\PruebaSiniestros\Siniestros.Application\obj\Debug\net8.0\Siniestros.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\PruebaSiniestros\Siniestros.Application\obj\Debug\net8.0\Siniestr.484CDBC2.Up2Date
+C:\Users\User\PruebaSiniestros\Siniestros.Application\obj\Debug\net8.0\Siniestros.Application.dll
+C:\Users\User\PruebaSiniestros\Siniestros.Application\obj\Debug\net8.0\refint\Siniestros.Application.dll
+C:\Users\User\PruebaSiniestros\Siniestros.Application\obj\Debug\net8.0\Siniestros.Application.pdb
+C:\Users\User\PruebaSiniestros\Siniestros.Application\obj\Debug\net8.0\ref\Siniestros.Application.dll

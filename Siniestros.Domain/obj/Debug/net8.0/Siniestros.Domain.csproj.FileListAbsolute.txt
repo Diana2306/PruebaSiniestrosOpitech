@@ -1,0 +1,11 @@
+C:\Users\User\PruebaSiniestros\Siniestros.Domain\bin\Debug\net8.0\Siniestros.Domain.deps.json
+C:\Users\User\PruebaSiniestros\Siniestros.Domain\bin\Debug\net8.0\Siniestros.Domain.dll
+C:\Users\User\PruebaSiniestros\Siniestros.Domain\bin\Debug\net8.0\Siniestros.Domain.pdb
+C:\Users\User\PruebaSiniestros\Siniestros.Domain\obj\Debug\net8.0\Siniestros.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\PruebaSiniestros\Siniestros.Domain\obj\Debug\net8.0\Siniestros.Domain.AssemblyInfoInputs.cache
+C:\Users\User\PruebaSiniestros\Siniestros.Domain\obj\Debug\net8.0\Siniestros.Domain.AssemblyInfo.cs
+C:\Users\User\PruebaSiniestros\Siniestros.Domain\obj\Debug\net8.0\Siniestros.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\PruebaSiniestros\Siniestros.Domain\obj\Debug\net8.0\Siniestros.Domain.dll
+C:\Users\User\PruebaSiniestros\Siniestros.Domain\obj\Debug\net8.0\refint\Siniestros.Domain.dll
+C:\Users\User\PruebaSiniestros\Siniestros.Domain\obj\Debug\net8.0\Siniestros.Domain.pdb
+C:\Users\User\PruebaSiniestros\Siniestros.Domain\obj\Debug\net8.0\ref\Siniestros.Domain.dll

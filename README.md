@@ -247,7 +247,7 @@ Para conocer más detalles sobre las decisiones arquitectónicas, por favor cons
 ### Ejecutar tests
 
 ```bash
-dotnet test
+dotnet test Siniestros.Tests/Siniestros.Tests.csproj
 ```
 
 ### Cobertura de tests
@@ -265,5 +265,6 @@ dotnet test
 
 
 Desarrollado como prueba técnica para Senior .NET Backend Developer por Diana Carolina Villanueva A.
+
 
 
